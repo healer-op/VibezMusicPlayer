@@ -1,21 +1,30 @@
 {
   "files": {
-    "main.css": "/VibezMusicPlayer/static/css/main.9da06d1c.chunk.css",
-    "main.js": "/VibezMusicPlayer/static/js/main.9c0dba12.chunk.js",
-    "main.js.map": "/VibezMusicPlayer/static/js/main.9c0dba12.chunk.js.map",
-    "runtime-main.js": "/VibezMusicPlayer/static/js/runtime-main.1ed29012.js",
-    "runtime-main.js.map": "/VibezMusicPlayer/static/js/runtime-main.1ed29012.js.map",
-    "static/js/2.1153424b.chunk.js": "/VibezMusicPlayer/static/js/2.1153424b.chunk.js",
-    "static/js/2.1153424b.chunk.js.map": "/VibezMusicPlayer/static/js/2.1153424b.chunk.js.map",
-    "index.html": "/VibezMusicPlayer/index.html",
-    "static/css/main.9da06d1c.chunk.css.map": "/VibezMusicPlayer/static/css/main.9da06d1c.chunk.css.map",
-    "static/js/2.1153424b.chunk.js.LICENSE.txt": "/VibezMusicPlayer/static/js/2.1153424b.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/VibezMusicPlayer/static/media/logo.154b5181.png"
+    "main.css": "/static/css/main.89a5dfc6.chunk.css",
+    "main.js": "/static/js/main.f70b3cee.chunk.js",
+    "main.js.map": "/static/js/main.f70b3cee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a9d92cff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a9d92cff.js.map",
+    "static/js/2.3289f658.chunk.js": "/static/js/2.3289f658.chunk.js",
+    "static/js/2.3289f658.chunk.js.map": "/static/js/2.3289f658.chunk.js.map",
+    "static/js/3.fb2ac08e.chunk.js": "/static/js/3.fb2ac08e.chunk.js",
+    "static/js/3.fb2ac08e.chunk.js.map": "/static/js/3.fb2ac08e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.89a5dfc6.chunk.css.map": "/static/css/main.89a5dfc6.chunk.css.map",
+    "static/js/2.3289f658.chunk.js.LICENSE.txt": "/static/js/2.3289f658.chunk.js.LICENSE.txt",
+    "static/media/bookmarks.9345566b.svg": "/static/media/bookmarks.9345566b.svg",
+    "static/media/eye.9ba0391a.svg": "/static/media/eye.9ba0391a.svg",
+    "static/media/home.90402137.svg": "/static/media/home.90402137.svg",
+    "static/media/live.5b2cef81.svg": "/static/media/live.5b2cef81.svg",
+    "static/media/logo.ebe87cb4.svg": "/static/media/logo.ebe87cb4.svg",
+    "static/media/play.235882ec.svg": "/static/media/play.235882ec.svg",
+    "static/media/search.957ab531.svg": "/static/media/search.957ab531.svg",
+    "static/media/settings.0e26822b.svg": "/static/media/settings.0e26822b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ed29012.js",
-    "static/js/2.1153424b.chunk.js",
-    "static/css/main.9da06d1c.chunk.css",
-    "static/js/main.9c0dba12.chunk.js"
+    "static/js/runtime-main.a9d92cff.js",
+    "static/js/2.3289f658.chunk.js",
+    "static/css/main.89a5dfc6.chunk.css",
+    "static/js/main.f70b3cee.chunk.js"
   ]
 }
